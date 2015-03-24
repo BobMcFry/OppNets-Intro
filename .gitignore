@@ -5,6 +5,6 @@
 *.synctex.gz
 *.toc
 .DS_Store
-*.pdf
+*.graffle
 *.bbl
 *.blg
